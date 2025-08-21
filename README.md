@@ -16,7 +16,3 @@ This project is a stock price dashboard that provides real-time stock quotes, co
 - **Lucide Icons**: For adding icons to the UI.
 - **Finnhub API**: For fetching stock data and company news.
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
